@@ -1,0 +1,3 @@
+chaine de format :
+
+'!{}s'.format(nbChar)  ==> Chaine de taille variable
