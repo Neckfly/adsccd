@@ -1,0 +1,4 @@
+Compilation proto : 
+
+protoc-c --c_out=OUT_DIR my_protobuf_file.proto
+
